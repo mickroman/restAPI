@@ -1,0 +1,381 @@
+    1  ls
+    2  cd
+    3  cd alg
+    4  cd algorithms/
+    5  cd workspace
+    6  node
+    7  touch loop.js
+    8  c9 loop.js
+    9  node
+   10  cd FCC
+   11  git add.
+   12  git add
+   13  git add.
+   14  git add .
+   15  git commit -m "uncomment HTML"
+   16  cd FCC
+   17  touch deleteElements.html
+   18  git add .
+   19  git commit -m
+   20  git push -u
+   21  touch html5Elements.html
+   22  git add .
+   23  git commit -m "intro to html5 elements"
+   24  git push -u
+   25  t
+   26  <h2>CatPhotoApp</h2>
+   27  <main>
+   28  cd  FCC
+   29  touch add image.html
+   30  touch addImage.html
+   31  git add .
+   32  git commit -m "add image to website"
+   33  git push -u
+   34  t
+   35  cd FCC
+   36  touch Uncomment HTML
+   37  <h1>Hello World</h1>
+   38  <h2>CatPhotoApp</h2>
+   39  <p>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
+   40  git add.
+   41  git add .
+   42  git commit -m "uncomment html"
+   43  git push -u
+   44  touch comment out html
+   45  c9 
+   46  git add .
+   47  git commit -m "delete html ements"
+   48  git push -u
+   49  t
+   50  <h2>CatPhotoApp</h2>
+   51  <main>
+   52  cd FCC
+   53  touch linkAnchorElements.html
+   54  git add .
+   55  git commit -m "link external page with anchor elements"
+   56  git push -u
+   57  touch linkInternalElements.html
+   58  git add .
+   59  git commit -m "link to an internal section of a page with anchor elements"
+   60  git push -u
+   61  touch nestElement.html
+   62  git add .
+   63  git commit -m "nest an anchor element within a paragraph"
+   64  git push -u
+   65  touch deadLinks
+   66  git add .
+   67  git commit -m "make dead links using the hash symbol"
+   68  git push -u
+   69  touch turnImageIntoLink.html
+   70  git add .
+   71  git commit -m "turn an image into a link"
+   72  git push -u
+   73  touch bulletedUnorderedList
+   74  git add .
+   75  git commit -m "create a bulleted unordered list"
+   76  git push -u
+   77  t
+   78  <h2>CatPhotoApp</h2>
+   79  <main>
+   80  <h2>CatPhotoApp</h2>
+   81  <main>
+   82  mkdir javascript101
+   83  cd javascript101/
+   84  touch firstcode.js
+   85  ls
+   86  c9 firstcode.js 
+   87  node firstcode.js 
+   88  node firstcode.js
+   89  n
+   90  node.js
+   91  touch workhours.js
+   92  cd workhours.js
+   93  cd javascript101
+   94  node.js
+   95  node
+   96  c9
+   97  touch workhrs.js
+   98  cd workhrs.js
+   99  c9
+  100  c9 workhrs.js
+  101  touch workhrs.js
+  102  c9
+  103  touch javascript
+  104  node hotel.js
+  105  c9
+  106  cd 
+  107  cd javascript
+  108  cd hotel.js
+  109  node.js
+  110  node
+  111  mkdir hotelsite
+  112  cd hotelsite
+  113  touch index.hml
+  114  touch index.hm
+  115  c9 index.html
+  116  touch style.css
+  117  c9 style.css
+  118  cd JavaScript-objects
+  119  cd javascript101
+  120  ..
+  121  cd java-stuff
+  122  touch fruits.js
+  123  c9 fruits.js
+  124  node fruits.js
+  125  fruit
+  126  node.js
+  127  node fruits.js
+  128  fruit
+  129  console.log fruit
+  130  node fruits.js
+  131  touch fruits.js
+  132  console.log fruits
+  133  node
+  134  console.log("The total revenue is", cornerPhones.cost * cornerPhones.monthlconsySales);
+  135  node
+  136  bash
+  137  node
+  138  node
+  139  touch pizzaObject.js
+  140  c9
+  141  node
+  142  var pizzaPalace = {
+  143  }
+  144  node
+  145  touch pizzaPalace.js
+  146  c9
+  147  var pizzaPalace = {
+  148  node
+  149  mk dir functions.js
+  150  mkdir functions
+  151  touch functions
+  152  c9
+  153  node
+  154  var hotel= {
+  155  };
+  156  var ar = [1,2, 3, 4, 5, 6];
+  157  ar.pop()
+  158  c9
+  159  node
+  160  mkdir FCC
+  161  touch FCC
+  162  node
+  163  var lower = " CreateDecimalNumberswithJavaScript";
+  164  touch FCC.js 
+  165  touch library.js
+  166  c9 library.js
+  167  var readline = require('readline-sync');
+  168  function checkoutBook() {     var y = "YES";     var n = "NO";          var library = {;       name: "CareerDevsFreeLibrary",;         titlesAvailable: ["Code", "Clean Code", "Code Complete", "Algorithms", "Types & Programming Languages"] ,;             titlesCheckedOut: [" The Art of Computer Programming", "Cracking the Coding Interview", "Programming Pearls"],;    var titlesReturned = [];  };
+  169  node
+  170  c9
+  171  touch uninitializedVariables.js
+  172  cd unitializedVariables.js
+  173  git add.
+  174  git add unitializedVariables.js
+  175  cd FCC
+  176  git add unitializedVariables.js
+  177  cd FCC
+  178  git add uninitializedVariables.js 
+  179  git commit -m
+  180  git commit -m "uninitializedVariables.js" 
+  181  git push -u
+  182  touch caseSensitivityInVariables
+  183  touch caseSensitivityInVariables.js 
+  184  git add . caseSensitivityInVariables.js 
+  185  git commit -m
+  186  git push -u
+  187  git add "caseSensitivityInVariables.js" 
+  188  cd FCC
+  189  git add caseSensitivityInVariables.js 
+  190  git commit -m "caseSensitivityInVariables.js" 
+  191  git push -u
+  192  touch addTwoNumbers.js
+  193  git add addTwoNumbers.js 
+  194  git commit -m "addTwoNumbers.js"
+  195  git push -u
+  196  node
+  197  cd javascript101/
+  198  ls
+  199  cd javascript101
+  200  ..
+  201  cd javascript101/
+  202  cd jsdom/
+  203  ls
+  204  git checkout -b version5.0
+  205  git add .
+  206  git commit -m "const books = document.querySelectorAll('#book-list li .name');"
+  207  ..
+  208  javascript101
+  209  cd javascript101/
+  210  cd jsdom/
+  211  git branch -a
+  212  git checkout master
+  213  git checkout -b test
+  214  touch test.txt
+  215  ls
+  216  git checkout master
+  217  ls
+  218  git checkout test
+  219  git status
+  220  git checkout master
+  221  git commit -m "test.txt
+  222  ..
+  223  git commit -m "test.txt"
+  224  git checkout -b version4.0
+  225  cd jsdomv2
+  226  ..
+  227  cd javascript101
+  228  cd jsdomv2
+  229  checkout -b version9.0
+  230  git checkout -b version9.0
+  231  git add -A
+  232  git commit -m "version9.0
+  233  git commit -m "version9.0"
+  234  git push-ucd java
+  235  ..
+  236  ...
+  237  cd javascript101/
+  238  cd jsdom
+  239  cd jsdomv2
+  240  cd ..
+  241  cd jsdomv2
+  242  ls
+  243  git checkout version9.0 
+  244  ls
+  245  git checkout version10.0 
+  246  cd javascript101
+  247  cd jsdomv2
+  248  git checkout -b version10.0
+  249  curl -LO https://github.com/iamshaunjp/JavaScript-DOM-Tutorial/archive/lesson-10.zip
+  250  unzip -j lesson-10.zip
+  251  rm lesson-10.0.zip
+  252  rm lesson-10.zip
+  253  ls
+  254  git -A
+  255  git add -A
+  256  c9 app.js 
+  257  git log
+  258  cd nod-js
+  259  cd nodejs
+  260  curl -LO https://github.com/iamshaunjp/node-js-playlist/archive/master.zip
+  261  unzip -j master.zip
+  262  ls
+  263  rm master.zip
+  264  cat README.md
+  265  git status
+  266  git add -A
+  267  git commit -m "first commit"
+  268  git remote add origin git@github.com:mickroman/nodejs.git
+  269  git status
+  270  git push -u origin master
+  271  node -v
+  272  node
+  273  node -v
+  274  cd node.test
+  275  cd nodejs
+  276  node.test
+  277  cd node.test
+  278  node
+  279  cd nodejs
+  280  checkout -b version1.0
+  281  git checkout -b version1.0
+  282  mkdir restAPI
+  283  cd resAPI
+  284  cd restAPI
+  285  git init
+  286  curl -LO https://github.com/iamshaunjp/rest-api-playlist/archive/master.zip
+  287  ls
+  288  unzip -j master.zip
+  289  ls
+  290  rm master.zip
+  291  cd javascript101
+  292  ls
+  293  cd javascript101
+  294  cd nodejsnn
+  295  cd master
+  296  cd restAPI
+  297  npm init
+  298  node index
+  299  cd/path/to/package
+  300  npm init --y
+  301  cd path/to/package
+  302  ls
+  303  cd package.json
+  304  node index
+  305  ./mongod
+  306  cd
+  307  ./mongod
+  308  cd
+  309  ./mongod
+  310  git init
+  311  ls
+  312  ls -la
+  313  ls -a
+  314  rm -rf .git/
+  315  ls
+  316  cd restAPI/
+  317  ls
+  318  git checkout -b version6.0
+  319  touch index.js
+  320  c9 index.js
+  321  npm init -y
+  322  npm install express --save
+  323  ls
+  324  git checkout master
+  325  git branch
+  326  checkout master
+  327  git checkout master
+  328  ..
+  329  ls
+  330  rm -rf restAPI/
+  331  ls
+  332  mkdir restA
+  333  ls
+  334  rm -rf restA/
+  335  mkdir restAPI
+  336  cd restAPI
+  337  git init
+  338  git remote add origin git@github.com:mickroman/restAPI.git
+  339  touch README.MD
+  340  c9 README.MD 
+  341  ls
+  342  git add -a
+  343  git add -A
+  344  git commit -m "initialized with README"
+  345  git push -u origin master
+  346  git checkout -b version5.0
+  347  git branch
+  348  touch index.js
+  349  c9 index.js 
+  350  ls
+  351  cat index.js 
+  352  git add -A
+  353  git commit -m "initialized express app"
+  354  git push -u
+  355  git checkout master
+  356  git merge version5.0 
+  357  git push -u
+  358  npm init -y
+  359  ls
+  360  npm install express --save
+  361  ls
+  362  git branch
+  363  git checkout -b version6.0
+  364  npm install nodemon --save
+  365  ls
+  366  nodemon index
+  367  mkdir routes
+  368  cd routes
+  369  touch app.js
+  370  touch api.js
+  371  ..
+  372  node index
+  373  git add -A
+  374  git commit -m "handling requests"
+  375  git push -u
+  376  git checkout master
+  377  git merge version6.0
+  378  git push -u
+  379  git checkout -b version7.0
+  380  history
+  381  history > history.txt
