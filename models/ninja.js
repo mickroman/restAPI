@@ -1,8 +1,8 @@
 const mongoose = require('mongoose');
-const Schema= mongoose.Schema;
+const Schema = mongoose.Schema;
 
 // create ninja Schema & model
-const NinjaSchema= newSchema({
+const NinjaSchema = new Schema({
     name: {
         type: String,
         requires: [true, 'Name field is required']
@@ -17,6 +17,6 @@ const NinjaSchema= newSchema({
     // add in geo location
 });
 
-const Ninja= mongoose.model('ninja', NinjaSchema);
+const Ninja = mongoose.model('ninja', NinjaSchema);
 
-module.export= Ninja;
+module.export = Ninja;
